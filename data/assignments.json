@@ -422,11 +422,19 @@
       "submitted": false
     },
     {
+      "title": "Exam 1 - Version C",
+      "course": "ENGR 132-115",
+      "dueDate": "20240208T173000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/679205/assignments/4058034/submissions/228866594",
+      "submitted": true
+    },
+    {
       "title": "Exam 1 - Notes",
       "course": "ENGR 132-115",
       "dueDate": "20240208T160000Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/679205/assignments/4058035/submissions/new",
+      "link": "https://www.gradescope.com/courses/679205",
       "submitted": false
     }
   ]
