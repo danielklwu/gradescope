@@ -74,7 +74,7 @@
       "submitted": true
     },
     {
-      "title": "HW03-3 Integratoin",
+      "title": "HW03-3 Integration",
       "course": "ECE 264-Spring-2024-Section002",
       "dueDate": "20240206T235900Z",
       "lateDueDate": "20240212T235900Z",
@@ -138,7 +138,7 @@
       "submitted": false
     },
     {
-      "title": "PA08-1-readData",
+      "title": "PA08-1-readData (Comment out printInput)",
       "course": "ECE 264-Spring-2024-Section002",
       "dueDate": "20240304T235900Z",
       "lateDueDate": "20240311T235900Z",
@@ -146,7 +146,7 @@
       "submitted": false
     },
     {
-      "title": "PA08-2-writeData",
+      "title": "PA08-2-writeData (Comment out printInput)",
       "course": "ECE 264-Spring-2024-Section002",
       "dueDate": "20240304T235900Z",
       "lateDueDate": "20240311T235900Z",
@@ -154,7 +154,7 @@
       "submitted": false
     },
     {
-      "title": "PA08-3-mergeSort",
+      "title": "PA08-3-mergeSort (keep printInput)",
       "course": "ECE 264-Spring-2024-Section002",
       "dueDate": "20240304T235900Z",
       "lateDueDate": "20240311T235900Z",
@@ -162,7 +162,7 @@
       "submitted": false
     },
     {
-      "title": "PA08-final",
+      "title": "PA08-final (100% on this assignment means 100% on PA08)",
       "course": "ECE 264-Spring-2024-Section002",
       "dueDate": "20240304T115900Z",
       "lateDueDate": "20240311T115900Z",
