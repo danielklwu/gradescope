@@ -430,6 +430,14 @@
       "submitted": true
     },
     {
+      "title": "A10 - Team Plan",
+      "course": "ENGR 132-115",
+      "dueDate": "20240227T153000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/679205/assignments/3773209/submissions/232535161",
+      "submitted": true
+    },
+    {
       "title": "A06 - Code of Cooperation",
       "course": "ENGR 132-115",
       "dueDate": "20240130T153000Z",
@@ -476,6 +484,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/679205/assignments/3945208/submissions/232021411",
       "submitted": true
+    },
+    {
+      "title": "A10 - Complex Loops",
+      "course": "ENGR 132-115",
+      "dueDate": "20240227T153000Z",
+      "lateDueDate": "20240228T153000Z",
+      "link": "https://www.gradescope.com/courses/679205/assignments/3945209/submissions/new",
+      "submitted": false
     },
     {
       "title": "Exam 1 - Version C",
