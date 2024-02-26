@@ -92,8 +92,8 @@
     {
       "title": "HW-06",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240226T235900Z",
-      "lateDueDate": "20240304T235900Z",
+      "dueDate": "20240304T235900Z",
+      "lateDueDate": "20240311T235900Z",
       "link": "https://www.gradescope.com/courses/678185/assignments/3989589/submissions/233296939",
       "submitted": true
     },
@@ -132,10 +132,10 @@
     {
       "title": "PA07-Struct",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240226T235900Z",
-      "lateDueDate": "20240304T235900Z",
-      "link": "https://www.gradescope.com/courses/678185",
-      "submitted": false
+      "dueDate": "20240304T235900Z",
+      "lateDueDate": "20240311T235900Z",
+      "link": "https://www.gradescope.com/courses/678185/assignments/4026182/submissions/234350311",
+      "submitted": true
     },
     {
       "title": "PA08-1-readData (Comment out printInput)",
