@@ -124,8 +124,8 @@
     {
       "title": "PA09-Shuffle1",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240304T235900Z",
-      "lateDueDate": "20240311T235900Z",
+      "dueDate": "20240319T235900Z",
+      "lateDueDate": "20240326T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
@@ -140,24 +140,24 @@
     {
       "title": "PA08-1-readData (Comment out printInput)",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240304T235900Z",
-      "lateDueDate": "20240311T235900Z",
+      "dueDate": "20240319T235900Z",
+      "lateDueDate": "20240326T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
     {
       "title": "PA08-2-writeData (Comment out printInput)",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240304T235900Z",
-      "lateDueDate": "20240311T235900Z",
+      "dueDate": "20240319T235900Z",
+      "lateDueDate": "20240326T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
     {
       "title": "PA08-3-mergeSort (keep printInput)",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240304T235900Z",
-      "lateDueDate": "20240311T235900Z",
+      "dueDate": "20240319T235900Z",
+      "lateDueDate": "20240326T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
@@ -204,24 +204,24 @@
     {
       "title": "PA12-1: calculate.c",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240325T235900Z",
-      "lateDueDate": "20240401T235900Z",
+      "dueDate": "20240329T235900Z",
+      "lateDueDate": "20240405T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
     {
       "title": "PA12-2: list.c",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240325T235900Z",
-      "lateDueDate": "20240401T235900Z",
+      "dueDate": "20240329T235900Z",
+      "lateDueDate": "20240405T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
     {
       "title": "PA12-3: Integration",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240325T235900Z",
-      "lateDueDate": "20240401T235900Z",
+      "dueDate": "20240329T235900Z",
+      "lateDueDate": "20240405T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
@@ -236,8 +236,8 @@
     {
       "title": "PA10-Shuffle2",
       "course": "ECE 264-Spring-2024-Section002",
-      "dueDate": "20240318T235900Z",
-      "lateDueDate": "20240325T120800Z",
+      "dueDate": "20240325T235900Z",
+      "lateDueDate": "20240401T120800Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     },
@@ -246,6 +246,14 @@
       "course": "ECE 264-Spring-2024-Section002",
       "dueDate": "20240408T235900Z",
       "lateDueDate": "20240415T225900Z",
+      "link": "https://www.gradescope.com/courses/678185",
+      "submitted": false
+    },
+    {
+      "title": "PA15  - Binary Tree 2",
+      "course": "ECE 264-Spring-2024-Section002",
+      "dueDate": "20240408T235900Z",
+      "lateDueDate": "20240415T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
     }
@@ -270,8 +278,8 @@
     {
       "title": "Experiment 6 Writeup",
       "course": "ECE20007-SP24-Tuesday",
-      "dueDate": "20240312T235900Z",
-      "lateDueDate": "20240316T233000Z",
+      "dueDate": "20240305T235900Z",
+      "lateDueDate": "20240309T233000Z",
       "link": "https://www.gradescope.com/courses/687066",
       "submitted": false
     },
@@ -294,8 +302,8 @@
     {
       "title": "Experiment 6 Notebook",
       "course": "ECE20007-SP24-Tuesday",
-      "dueDate": "20240312T230000Z",
-      "lateDueDate": "20240316T233000Z",
+      "dueDate": "20240305T235900Z",
+      "lateDueDate": "20240309T233000Z",
       "link": "https://www.gradescope.com/courses/687066",
       "submitted": false
     },
@@ -374,10 +382,10 @@
     {
       "title": "Experiment 5 Notebook",
       "course": "ECE20007-SP24-Tuesday",
-      "dueDate": "20240305T235900Z",
-      "lateDueDate": "20240309T233000Z",
-      "link": "https://www.gradescope.com/courses/687066",
-      "submitted": false
+      "dueDate": "20240227T235900Z",
+      "lateDueDate": "20240302T233000Z",
+      "link": "https://www.gradescope.com/courses/687066/assignments/3827285/submissions/234819068",
+      "submitted": true
     },
     {
       "title": "Experiment 2 Notebook",
@@ -414,10 +422,10 @@
     {
       "title": "Experiment 5 Writeup",
       "course": "ECE20007-SP24-Tuesday",
-      "dueDate": "20240305T235900Z",
-      "lateDueDate": "20240309T233000Z",
-      "link": "https://www.gradescope.com/courses/687066",
-      "submitted": false
+      "dueDate": "20240227T235900Z",
+      "lateDueDate": "20240302T233000Z",
+      "link": "https://www.gradescope.com/courses/687066/assignments/3827291/submissions/234818715",
+      "submitted": true
     },
     {
       "title": "Project 2 Report (updated)",
