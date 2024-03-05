@@ -594,8 +594,16 @@
       "course": "ENGR 132-115",
       "dueDate": "20240305T160000Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/679205/assignments/4159388/submissions/new",
+      "link": "https://www.gradescope.com/courses/679205",
       "submitted": false
+    },
+    {
+      "title": "Exam 2 - Version B",
+      "course": "ENGR 132-115",
+      "dueDate": "20240305T172000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/679205/assignments/4184143/submissions/236753927",
+      "submitted": true
     }
   ]
 }
