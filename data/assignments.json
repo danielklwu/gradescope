@@ -256,6 +256,14 @@
       "lateDueDate": "20240415T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
+    },
+    {
+      "title": "PA16-Huffman1",
+      "course": "ECE 264-Spring-2024-Section002",
+      "dueDate": "20240421T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/678185",
+      "submitted": false
     }
   ],
   "ECE20007-SP24-Tuesday": [
