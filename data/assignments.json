@@ -280,6 +280,14 @@
       "lateDueDate": "20240421T235900Z",
       "link": "https://www.gradescope.com/courses/678185",
       "submitted": false
+    },
+    {
+      "title": "PA19: Memory",
+      "course": "ECE 264-Spring-2024-Section002",
+      "dueDate": "20240421T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/678185",
+      "submitted": false
     }
   ],
   "ECE20007-SP24-Tuesday": [
@@ -360,8 +368,8 @@
       "course": "ECE20007-SP24-Tuesday",
       "dueDate": "20240319T235900Z",
       "lateDueDate": "20240323T233000Z",
-      "link": "https://www.gradescope.com/courses/687066",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/687066/assignments/3827279/submissions/240314994",
+      "submitted": true
     },
     {
       "title": "Project 2 Notebook",
@@ -432,8 +440,8 @@
       "course": "ECE20007-SP24-Tuesday",
       "dueDate": "20240319T235900Z",
       "lateDueDate": "20240323T233000Z",
-      "link": "https://www.gradescope.com/courses/687066",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/687066/assignments/3827288/submissions/240315635",
+      "submitted": true
     },
     {
       "title": "Experiment 8 Writeup",
