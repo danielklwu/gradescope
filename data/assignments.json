@@ -694,11 +694,19 @@
       "submitted": false
     },
     {
+      "title": "Exam 3 - Version D",
+      "course": "ENGR 132-115",
+      "dueDate": "20240404T171500Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/679205/assignments/4274265/submissions/244109301",
+      "submitted": true
+    },
+    {
       "title": "Exam 3 - Notes",
       "course": "ENGR 132-115",
-      "dueDate": "20240404T153000Z",
+      "dueDate": "20240404T160000Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/679205/assignments/4294206/submissions/new",
+      "link": "https://www.gradescope.com/courses/679205",
       "submitted": false
     }
   ]
