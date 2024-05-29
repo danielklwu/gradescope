@@ -1,3 +1,334 @@
 {
-  "ECE.20002.002": []
+  "ME 270 Exams": [
+    {
+      "title": "Exam 1",
+      "course": "ME 270 Exams",
+      "dueDate": "20241002T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790459",
+      "submitted": false
+    },
+    {
+      "title": "Exam 2",
+      "course": "ME 270 Exams",
+      "dueDate": "20241029T220000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790459",
+      "submitted": false
+    },
+    {
+      "title": "Final Exam",
+      "course": "ME 270 Exams",
+      "dueDate": "20241206T213000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790459",
+      "submitted": false
+    }
+  ],
+  "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge": [
+    {
+      "title": "Homework 02.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240823T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 03.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240826T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 04.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240828T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 05.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240830T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 06.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240904T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 07.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240906T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 08.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240909T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 10.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240913T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 09.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240911T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 11.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240916T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 12.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240918T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 13.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240920T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 14.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240923T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 15.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240925T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 16.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240930T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 17.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241002T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 18.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241009T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 19.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241011T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 20.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241014T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 21.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241016T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 22.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241018T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 23.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241021T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 24.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241023T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 25.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241028T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 26.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241101T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 27.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241104T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 28.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241106T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 29.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241108T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 30.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241111T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 31.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241113T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 32.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241115T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 33.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241118T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 34.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241120T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 35.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241122T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 36.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241125T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 37.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241201T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "End-of-Semester Course and Instructor Evaluation Confirmation",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20241202T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Mid-Semester Evaluation Confirmation",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240930T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    }
+  ]
 }
