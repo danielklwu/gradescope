@@ -27,22 +27,6 @@
   ],
   "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge": [
     {
-      "title": "Homework 02.B",
-      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
-      "dueDate": "20240823T235900Z",
-      "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/790432",
-      "submitted": false
-    },
-    {
-      "title": "Homework 03.B",
-      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
-      "dueDate": "20240826T235900Z",
-      "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/790432",
-      "submitted": false
-    },
-    {
       "title": "Homework 04.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240828T235900Z",
@@ -83,7 +67,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 10.A",
+      "title": "Homework 10.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240913T235900Z",
       "lateDueDate": null,
@@ -91,7 +75,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 09.A",
+      "title": "Homework 09.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240911T235900Z",
       "lateDueDate": null,
@@ -99,7 +83,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 11.B",
+      "title": "Homework 11.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240916T235900Z",
       "lateDueDate": null,
@@ -115,7 +99,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 13.B",
+      "title": "Homework 13.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240920T235900Z",
       "lateDueDate": null,
@@ -123,7 +107,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 14.B",
+      "title": "Homework 14.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240923T235900Z",
       "lateDueDate": null,
@@ -139,7 +123,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 16.B",
+      "title": "Homework 16.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240930T235900Z",
       "lateDueDate": null,
@@ -147,7 +131,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 17.B",
+      "title": "Homework 17.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241002T235900Z",
       "lateDueDate": null,
@@ -155,7 +139,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 18.B",
+      "title": "Homework 18.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241009T235900Z",
       "lateDueDate": null,
@@ -187,7 +171,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 22.A",
+      "title": "Homework 22.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241018T235900Z",
       "lateDueDate": null,
@@ -211,7 +195,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 25.B",
+      "title": "Homework 25.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241028T235900Z",
       "lateDueDate": null,
@@ -219,7 +203,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 26.B",
+      "title": "Homework 26.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241101T235900Z",
       "lateDueDate": null,
@@ -235,7 +219,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 28.A",
+      "title": "Homework 28.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241106T235900Z",
       "lateDueDate": null,
@@ -243,7 +227,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 29.B",
+      "title": "Homework 29.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241108T235900Z",
       "lateDueDate": null,
@@ -251,7 +235,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 30.B",
+      "title": "Homework 30.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241111T235900Z",
       "lateDueDate": null,
@@ -259,7 +243,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 31.B",
+      "title": "Homework 31.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241113T235900Z",
       "lateDueDate": null,
@@ -267,7 +251,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 32.B",
+      "title": "Homework 32.A",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241115T235900Z",
       "lateDueDate": null,
@@ -275,7 +259,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 33.A",
+      "title": "Homework 33.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241118T235900Z",
       "lateDueDate": null,
@@ -291,7 +275,7 @@
       "submitted": false
     },
     {
-      "title": "Homework 35.A",
+      "title": "Homework 35.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241122T235900Z",
       "lateDueDate": null,
@@ -326,6 +310,22 @@
       "title": "Mid-Semester Evaluation Confirmation",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240930T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 02.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240823T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
+      "title": "Homework 03.B",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240826T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/790432",
       "submitted": false
