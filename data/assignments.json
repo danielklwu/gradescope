@@ -331,5 +331,14 @@
       "submitted": false
     }
   ],
-  "wl.202510.ECE.36800.003": []
+  "wl.202510.ECE.36800.003": [
+    {
+      "title": "Prerequisite Exam",
+      "course": "wl.202510.ECE.36800.003",
+      "dueDate": "20240829T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/830674/assignments/4786513/submissions/new",
+      "submitted": false
+    }
+  ]
 }
