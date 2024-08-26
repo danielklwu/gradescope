@@ -27,6 +27,14 @@
   ],
   "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge": [
     {
+      "title": "Homework 04.A",
+      "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
+      "dueDate": "20240828T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/790432",
+      "submitted": false
+    },
+    {
       "title": "Homework 05.B",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20240830T235900Z",
@@ -325,7 +333,7 @@
   ],
   "wl.202510.ECE.36800.003": [
     {
-      "title": "Prerequisite Exam",
+      "title": "Prerequisite Exam (Part A)",
       "course": "wl.202510.ECE.36800.003",
       "dueDate": "20240829T235900Z",
       "lateDueDate": null,
