@@ -347,6 +347,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/830674/assignments/4828582/submissions/262997177",
       "submitted": true
+    },
+    {
+      "title": "A2",
+      "course": "wl.202510.ECE.36800.003",
+      "dueDate": "20240910T130000Z",
+      "lateDueDate": "20240912T130000Z",
+      "link": "https://www.gradescope.com/courses/830674",
+      "submitted": false
     }
   ]
 }
