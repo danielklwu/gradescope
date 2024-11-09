@@ -15,6 +15,14 @@
       "lateDueDate": "20241030T235900Z",
       "link": "https://www.gradescope.com/courses/874798/assignments/5144713/submissions/282141399",
       "submitted": true
+    },
+    {
+      "title": "Mini-project",
+      "course": "ECE 20875: Section 1",
+      "dueDate": "20241208T235900Z",
+      "lateDueDate": "20241213T235900Z",
+      "link": "https://www.gradescope.com/courses/874798",
+      "submitted": false
     }
   ],
   "ME 270 Exams": [
@@ -249,8 +257,8 @@
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
       "dueDate": "20241108T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/790432",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/790432/assignments/4536734/submissions/287210765",
+      "submitted": true
     },
     {
       "title": "Homework 30.A",
