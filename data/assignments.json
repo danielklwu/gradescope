@@ -425,8 +425,8 @@
     {
       "title": "A8",
       "course": "wl.202510.ECE.36800.003",
-      "dueDate": "20241203T130000Z",
-      "lateDueDate": null,
+      "dueDate": "20241126T130000Z",
+      "lateDueDate": "20241203T130000Z",
       "link": "https://www.gradescope.com/courses/830674/assignments/5306655/submissions/293120146",
       "submitted": true
     },
