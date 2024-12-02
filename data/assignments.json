@@ -20,7 +20,7 @@
       "title": "Mini-project",
       "course": "ECE 20875: Section 1",
       "dueDate": "20241208T235900Z",
-      "lateDueDate": "20241213T235900Z",
+      "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/874798",
       "submitted": false
     }
@@ -327,7 +327,7 @@
     {
       "title": "End-of-Semester Course and Instructor Evaluation Confirmation",
       "course": "ME 27000 - 001 (F2F), 002 (F2F) and Y01 (Dist) - Merge",
-      "dueDate": "20241202T235900Z",
+      "dueDate": "20241208T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/790432/assignments/4536751/submissions/293655739",
       "submitted": true
