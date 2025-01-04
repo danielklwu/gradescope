@@ -1,3 +1,61 @@
 {
-  "ECE301": []
+  "ECE301": [],
+  "wl.202520.ECE.36200.001": [
+    {
+      "title": "Lab 1",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20250819T000000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20250819T000000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 3",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20250819T000000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 4",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20250819T000000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 5",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20250819T000000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 6",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20250819T000000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 7",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250819T000000Z",
+      "lateDueDate": "20251025T120000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    }
+  ]
 }
