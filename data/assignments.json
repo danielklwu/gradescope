@@ -2,6 +2,22 @@
   "ECE 30100-003": [],
   "wl.202520.ECE.36200.001": [
     {
+      "title": "Lab 0",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250114T172000Z",
+      "lateDueDate": "20250121T143000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 1",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250121T172000Z",
+      "lateDueDate": "20250128T143000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
       "title": "Lab 2",
       "course": "wl.202520.ECE.36200.001",
       "dueDate": "20250819T000000Z",
@@ -47,6 +63,14 @@
       "dueDate": "20250819T000000Z",
       "lateDueDate": "20251025T120000Z",
       "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "HW0",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250117T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/5576962/submissions/new",
       "submitted": false
     }
   ]
