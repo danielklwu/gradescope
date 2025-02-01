@@ -103,7 +103,15 @@
       "course": "wl.202520.ECE.36200.001",
       "dueDate": "20250131T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/938631/assignments/5659465/submissions/new",
+      "link": "https://www.gradescope.com/courses/938631/assignments/5659465/submissions/304007686",
+      "submitted": true
+    },
+    {
+      "title": "HW3",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250207T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/5711352/submissions/new",
       "submitted": false
     }
   ]
