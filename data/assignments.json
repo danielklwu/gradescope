@@ -121,6 +121,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/938631/assignments/5711352/submissions/306221222",
       "submitted": true
+    },
+    {
+      "title": "HW4",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250214T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/5750136/submissions/new",
+      "submitted": false
     }
   ]
 }
