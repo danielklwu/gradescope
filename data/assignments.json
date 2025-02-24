@@ -31,6 +31,14 @@
       "lateDueDate": "20250306T235900Z",
       "link": "https://www.gradescope.com/courses/934394",
       "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "ECE 30100-003",
+      "dueDate": "20250306T235900Z",
+      "lateDueDate": "20250313T235900Z",
+      "link": "https://www.gradescope.com/courses/934394",
+      "submitted": false
     }
   ],
   "wl.202520.ECE.36200.001": [
@@ -152,6 +160,30 @@
       "dueDate": "20250228T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/938631/assignments/5832934/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 8",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250401T172000Z",
+      "lateDueDate": "20250408T143000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 9",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250408T172000Z",
+      "lateDueDate": "20250415T143000Z",
+      "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "Lab 10",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250415T172000Z",
+      "lateDueDate": "20250422T143000Z",
+      "link": "https://www.gradescope.com/courses/938631",
       "submitted": false
     }
   ]
