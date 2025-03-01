@@ -159,8 +159,8 @@
       "course": "wl.202520.ECE.36200.001",
       "dueDate": "20250228T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/938631/assignments/5832934/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/938631/assignments/5832934/submissions/313362705",
+      "submitted": true
     },
     {
       "title": "Lab 8",
@@ -184,6 +184,14 @@
       "dueDate": "20250415T172000Z",
       "lateDueDate": "20250422T143000Z",
       "link": "https://www.gradescope.com/courses/938631",
+      "submitted": false
+    },
+    {
+      "title": "HW7",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250314T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/5859548/submissions/new",
       "submitted": false
     }
   ]
