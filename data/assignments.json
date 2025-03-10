@@ -47,6 +47,22 @@
       "lateDueDate": "20250320T235900Z",
       "link": "https://www.gradescope.com/courses/934394",
       "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "ECE 30100-003",
+      "dueDate": "20250403T235900Z",
+      "lateDueDate": "20250410T235900Z",
+      "link": "https://www.gradescope.com/courses/934394",
+      "submitted": false
+    },
+    {
+      "title": "Bonus MATLAB Assignment",
+      "course": "ECE 30100-003",
+      "dueDate": "20250406T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/934394/assignments/5916922/submissions/new",
+      "submitted": false
     }
   ],
   "wl.202520.ECE.36200.001": [
