@@ -61,8 +61,8 @@
       "course": "ECE 30100-003",
       "dueDate": "20250406T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/934394/assignments/5916922/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/934394/assignments/5916922/submissions/322649122",
+      "submitted": true
     },
     {
       "title": "Homework 8",
@@ -239,7 +239,15 @@
       "course": "wl.202520.ECE.36200.001",
       "dueDate": "20250404T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/938631/assignments/6005917/submissions/new",
+      "link": "https://www.gradescope.com/courses/938631/assignments/6005917/submissions/322623380",
+      "submitted": true
+    },
+    {
+      "title": "HW10",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250411T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/6041778/submissions/new",
       "submitted": false
     }
   ]
