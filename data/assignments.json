@@ -263,7 +263,15 @@
       "course": "wl.202520.ECE.36200.001",
       "dueDate": "20250418T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/938631/assignments/6079079/submissions/new",
+      "link": "https://www.gradescope.com/courses/938631/assignments/6079079/submissions/326686098",
+      "submitted": true
+    },
+    {
+      "title": "Project Video Submission",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250502T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/6112055/submissions/new",
       "submitted": false
     }
   ]
