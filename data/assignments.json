@@ -281,6 +281,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/938631/assignments/6112055/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "PCB Extra Credit",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250502T170000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/938631/assignments/6142824/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Course Eval Confirmation",
+      "course": "wl.202520.ECE.36200.001",
+      "dueDate": "20250504T235900Z",
+      "lateDueDate": "20250504T235900Z",
+      "link": "https://www.gradescope.com/courses/938631/assignments/6142885/submissions/new",
+      "submitted": false
     }
   ]
 }
