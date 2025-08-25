@@ -1,3 +1,12 @@
 {
-  "ECE 30861/46100 and CSCI 46500": []
+  "ECE 30861/46100 and CSCI 46500": [
+    {
+      "title": "Purdue Honor Pledge",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20250901T235900Z",
+      "lateDueDate": "20250921T235900Z",
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6547954/submissions/new",
+      "submitted": false
+    }
+  ]
 }
