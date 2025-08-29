@@ -5,7 +5,7 @@
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20250828T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438/assignments/6547955/submissions/new",
+      "link": "https://www.gradescope.com/courses/1092438",
       "submitted": false
     },
     {
@@ -14,6 +14,16 @@
       "dueDate": "20250831T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    }
+  ],
+  "ECE20869": [
+    {
+      "title": "HW0",
+      "course": "ECE20869",
+      "dueDate": "20250831T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1099105",
       "submitted": false
     }
   ]
