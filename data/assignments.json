@@ -1,4 +1,14 @@
 {
+  "ECE 302 Reibman": [
+    {
+      "title": "Homework 1",
+      "course": "ECE 302 Reibman",
+      "dueDate": "20250904T235900Z",
+      "lateDueDate": "20250905T065900Z",
+      "link": "https://www.gradescope.com/courses/1088232",
+      "submitted": false
+    }
+  ],
   "ECE 30861/46100 and CSCI 46500": [
     {
       "title": "PROJECT - Phase 1 - Project Plan",
