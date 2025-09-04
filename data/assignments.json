@@ -7,6 +7,14 @@
       "lateDueDate": "20250905T065900Z",
       "link": "https://www.gradescope.com/courses/1088232",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "ECE 302 Reibman",
+      "dueDate": "20250911T235900Z",
+      "lateDueDate": "20250912T065900Z",
+      "link": "https://www.gradescope.com/courses/1088232",
+      "submitted": false
     }
   ],
   "ECE 30861/46100 and CSCI 46500": [
@@ -59,6 +67,14 @@
       "lateDueDate": "20250907T235900Z",
       "link": "https://www.gradescope.com/courses/1099105/assignments/6611243/submissions/343053422",
       "submitted": true
+    },
+    {
+      "title": "HW1",
+      "course": "ECE20869",
+      "dueDate": "20250910T235900Z",
+      "lateDueDate": "20250913T235900Z",
+      "link": "https://www.gradescope.com/courses/1099105",
+      "submitted": false
     }
   ]
 }
