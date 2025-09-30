@@ -153,6 +153,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1092438/assignments/6641557/submissions/344355302",
       "submitted": true
+    },
+    {
+      "title": "PROJECT - Phase 1.5 - Handoff Survey",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251005T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6879713/submissions/new",
+      "submitted": false
     }
   ],
   "ECE20869": [
