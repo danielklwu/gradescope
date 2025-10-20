@@ -59,6 +59,14 @@
   ],
   "ECE 30861/46100 and CSCI 46500": [
     {
+      "title": "PROJECT - Phase 2.3 - Milestone 7",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251026T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    },
+    {
       "title": "PROJECT - Phase 1.3 - Milestone 3 - Intermediate",
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20250921T235900Z",
@@ -143,8 +151,8 @@
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251019T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6547970/submissions/359993087",
+      "submitted": true
     },
     {
       "title": "READING QUIZ - Module 1 Part 2",
