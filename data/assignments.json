@@ -233,6 +233,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1092438/assignments/6879713/submissions/355001875",
       "submitted": true
+    },
+    {
+      "title": "Guest Speaker 2-  Paschal- follow up",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251026T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438/assignments/7012370/submissions/360526522",
+      "submitted": true
     }
   ],
   "ECE20869": [
@@ -273,6 +281,14 @@
       "course": "ECE20869",
       "dueDate": "20251008T235900Z",
       "lateDueDate": "20251011T235900Z",
+      "link": "https://www.gradescope.com/courses/1099105",
+      "submitted": false
+    },
+    {
+      "title": "In-class quiz Oct/21",
+      "course": "ECE20869",
+      "dueDate": "20251021T074500Z",
+      "lateDueDate": "20251021T082500Z",
       "link": "https://www.gradescope.com/courses/1099105",
       "submitted": false
     }
