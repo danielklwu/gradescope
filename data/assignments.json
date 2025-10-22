@@ -291,6 +291,14 @@
       "lateDueDate": "20251021T082500Z",
       "link": "https://www.gradescope.com/courses/1099105",
       "submitted": false
+    },
+    {
+      "title": "HW5",
+      "course": "ECE20869",
+      "dueDate": "20251030T235900Z",
+      "lateDueDate": "20251102T235900Z",
+      "link": "https://www.gradescope.com/courses/1099105",
+      "submitted": false
     }
   ]
 }
