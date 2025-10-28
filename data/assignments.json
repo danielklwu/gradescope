@@ -323,6 +323,14 @@
       "lateDueDate": "20251102T235900Z",
       "link": "https://www.gradescope.com/courses/1099105",
       "submitted": false
+    },
+    {
+      "title": "In-class Quiz Oct/28",
+      "course": "ECE20869",
+      "dueDate": "20251028T083500Z",
+      "lateDueDate": "20251028T085000Z",
+      "link": "https://www.gradescope.com/courses/1099105",
+      "submitted": false
     }
   ]
 }
