@@ -79,8 +79,8 @@
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251109T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6547940/submissions/367840616",
+      "submitted": true
     },
     {
       "title": "PROJECT - Phase 2.3 - Milestone 7",
@@ -163,6 +163,14 @@
       "submitted": true
     },
     {
+      "title": "HOMEWORK 6 - Threat Modelling",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251116T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    },
+    {
       "title": "PROJECT - Phase 1.5 - Postmortem",
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251005T235900Z",
@@ -185,6 +193,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1092438/assignments/6547971/submissions/365331703",
       "submitted": true
+    },
+    {
+      "title": "PROJECT - Phase 2.6 - Milestone 10",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251116T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    },
+    {
+      "title": "PROJECT - Renegotiation Deadline",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251116T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
     },
     {
       "title": "READING QUIZ - Module 1 Part 2",
@@ -289,6 +313,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1092438/assignments/7012370/submissions/360526522",
       "submitted": true
+    },
+    {
+      "title": "PROJECT - Phase 2.6 - Security Analysis",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251116T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
     }
   ],
   "ECE20869": [
