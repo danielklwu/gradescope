@@ -139,6 +139,14 @@
       "submitted": true
     },
     {
+      "title": "PROJECT - Phase 2.7 - Milestone 11",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251123T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    },
+    {
       "title": "HOMEWORK 1 - GitHub Tutorials",
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20250831T235900Z",
@@ -199,16 +207,16 @@
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251116T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6547972/submissions/370303926",
+      "submitted": true
     },
     {
       "title": "PROJECT - Renegotiation Deadline",
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251116T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6547973/submissions/370310321",
+      "submitted": true
     },
     {
       "title": "READING QUIZ - Module 1 Part 2",
@@ -327,8 +335,8 @@
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251116T235900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1092438/assignments/7109088/submissions/370291005",
+      "submitted": true
     }
   ],
   "ECE20869": [
