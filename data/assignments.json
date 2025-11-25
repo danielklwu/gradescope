@@ -367,7 +367,15 @@
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251125T115900Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1092438/assignments/7137542/submissions/new",
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    },
+    {
+      "title": "Guest Speaker 3 -  Harsha Pavuluri - follow up",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251203T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438/assignments/7137571/submissions/new",
       "submitted": false
     }
   ],
@@ -489,6 +497,14 @@
       "course": "ECE20869",
       "dueDate": "20251201T235900Z",
       "lateDueDate": "20251204T235900Z",
+      "link": "https://www.gradescope.com/courses/1099105",
+      "submitted": false
+    },
+    {
+      "title": "In-class Quiz Nov/25",
+      "course": "ECE20869",
+      "dueDate": "20251125T074500Z",
+      "lateDueDate": "20251125T084500Z",
       "link": "https://www.gradescope.com/courses/1099105",
       "submitted": false
     }
