@@ -235,6 +235,14 @@
       "submitted": true
     },
     {
+      "title": "PROJECT - Phase 2.10 - Final Deliverable",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251214T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
+      "submitted": false
+    },
+    {
       "title": "READING QUIZ - Module 1 Part 2",
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20250914T235900Z",
@@ -384,6 +392,14 @@
       "dueDate": "20251203T235900Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1092438/assignments/7137571/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "PROJECT - Phase 2.10 - Security Analysis",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251214T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438",
       "submitted": false
     }
   ],
