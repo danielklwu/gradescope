@@ -243,6 +243,14 @@
       "submitted": true
     },
     {
+      "title": "Final Exam",
+      "course": "ECE 30861/46100 and CSCI 46500",
+      "dueDate": "20251218T120000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1092438/assignments/6547975/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Phase 2 Postmortem",
       "course": "ECE 30861/46100 and CSCI 46500",
       "dueDate": "20251220T235900Z",
