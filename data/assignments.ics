@@ -3,4 +3,14 @@ VERSION:2.0
 PRODID:-//github.com/jakobz5404/Gradescope-iCal-Integration//EN
 CALSCALE:GREGORIAN
  X-WR-CALNAME:Gradescope Assignments
+BEGIN:VEVENT
+SUMMARY:Quiz 0 (prerequisite quiz, ungraded)
+DTSTAMP:20260112T231952Z
+DTSTART:20260120T045900Z
+DTEND:20260120T045900Z
+LOCATION:ECE 57000
+DESCRIPTION:https://www.gradescope.com/courses/1216856/assignments/7445287/submissions/
+ new
+UID:2
+END:VEVENT
 END:VCALENDAR
