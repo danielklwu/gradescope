@@ -16,6 +16,14 @@
       "lateDueDate": "20260201T235900Z",
       "link": "https://www.gradescope.com/courses/1216856/assignments/7492849/submissions/384170413",
       "submitted": true
+    },
+    {
+      "title": "Checkpoint-1",
+      "course": "ECE 57000",
+      "dueDate": "20260227T235900Z",
+      "lateDueDate": "20260301T235900Z",
+      "link": "https://www.gradescope.com/courses/1216856",
+      "submitted": false
     }
   ]
 }
