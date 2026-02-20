@@ -40,6 +40,14 @@
       "lateDueDate": "20260301T235900Z",
       "link": "https://www.gradescope.com/courses/1216856",
       "submitted": false
+    },
+    {
+      "title": "Assignment 3",
+      "course": "ECE 57000",
+      "dueDate": "20260313T235900Z",
+      "lateDueDate": "20260315T235900Z",
+      "link": "https://www.gradescope.com/courses/1216856",
+      "submitted": false
     }
   ],
   "wl.202620.ECE.40400.001": []
