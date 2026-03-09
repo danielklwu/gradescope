@@ -56,6 +56,22 @@
       "lateDueDate": "20260306T235900Z",
       "link": "https://www.gradescope.com/courses/1216856",
       "submitted": false
+    },
+    {
+      "title": "Assignment 4",
+      "course": "ECE 57000",
+      "dueDate": "20260327T235900Z",
+      "lateDueDate": "20260329T235900Z",
+      "link": "https://www.gradescope.com/courses/1216856",
+      "submitted": false
+    },
+    {
+      "title": "Checkpoint 2",
+      "course": "ECE 57000",
+      "dueDate": "20260329T235900Z",
+      "lateDueDate": "20260331T235900Z",
+      "link": "https://www.gradescope.com/courses/1216856",
+      "submitted": false
     }
   ],
   "wl.202620.ECE.40400.001": []
