@@ -80,6 +80,14 @@
       "lateDueDate": "20260416T235900Z",
       "link": "https://www.gradescope.com/courses/1216856",
       "submitted": false
+    },
+    {
+      "title": "Course Project Deliverables",
+      "course": "ECE 57000",
+      "dueDate": "20260422T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1216856",
+      "submitted": false
     }
   ],
   "wl.202620.ECE.40400.001": []
