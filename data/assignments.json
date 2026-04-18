@@ -104,6 +104,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1216856",
       "submitted": false
+    },
+    {
+      "title": "Midterm Exam 2 Note Sheets (online students only)",
+      "course": "ECE 57000",
+      "dueDate": "20260418T235900Z",
+      "lateDueDate": "20260419T235900Z",
+      "link": "https://www.gradescope.com/courses/1216856",
+      "submitted": false
     }
   ],
   "wl.202620.ECE.40400.001": []
