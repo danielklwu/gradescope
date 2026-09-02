@@ -37,7 +37,7 @@ def json_to_ics(time_offset, json_path=os.path.join(DATA_DIR, 'assignments.json'
     with open(json_path, 'r') as json_file:
         data = json.load(json_file)
     ics_str = "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//github.com/jakobz5404/Gradescope-iCal-Integration//EN\r" \
-              "\nCALSCALE:GREGORIAN\r\n"
+              "\nCALSCALE:GREGORIAN\r\n "
     ics_str += "X-WR-CALNAME:Gradescope Assignments\r\n"
     uid = 1
     for course, course_assignments in data.items():
