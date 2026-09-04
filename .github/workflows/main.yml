@@ -32,6 +32,7 @@ jobs:
         git checkout Gradescope-iCal-Integration/main -- .
         git checkout HEAD -- data || true
         git checkout HEAD -- .github
+        git checkout HEAD -- src
         git commit -m 'Upgraded to latest Gradescope-iCal-Integration version' || true
     
     - name: Set up Python 3.10
