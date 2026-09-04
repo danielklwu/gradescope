@@ -6,21 +6,21 @@ X-WR-CALNAME:Gradescope Assignments
 BEGIN:VEVENT
 SUMMARY:Homework1-: System Setup, GitHub Skill Review, and Introduction to Agentic 
  Engineering
-DTSTAMP:20260904T014330Z
+DTSTAMP:20260904T014915Z
 DTSTART:20260911T035900Z
 DTEND:20260911T041400Z
 LOCATION:14763/18763
 DESCRIPTION:https://www.gradescope.com/courses/1353968
-UID:2
+UID:985ef9dcb8fb0d74@gradescope-ical-integration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Due Date: Homework1-: System Setup, GitHub Skill Review, and Introduct
  ion to Agentic Engineering
-DTSTAMP:20260904T014330Z
+DTSTAMP:20260904T014915Z
 DTSTART:20260914T035900Z
 DTEND:20260914T041400Z
 LOCATION:14763/18763
 DESCRIPTION:https://www.gradescope.com/courses/1353968
-UID:3
+UID:22a80cfa36829cc4@gradescope-ical-integration
 END:VEVENT
 END:VCALENDAR

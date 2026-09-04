@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 from datetime import datetime, timedelta
@@ -5,6 +6,11 @@ from datetime import datetime, timedelta
 import dateparser
 
 DATA_DIR = 'data'
+
+
+def make_uid(course, title, suffix=''):
+    digest = hashlib.sha1(f'{course}|{title}|{suffix}'.encode('utf-8')).hexdigest()[:16]
+    return f'{digest}@gradescope-ical-integration'
 
 
 def get_assignment_dict(title, course, due_date, link, submitted, late_due_date=None):
@@ -39,11 +45,10 @@ def json_to_ics(time_offset, json_path=os.path.join(DATA_DIR, 'assignments.json'
     ics_str = "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//github.com/jakobz5404/Gradescope-iCal-Integration//EN\r" \
               "\nCALSCALE:GREGORIAN\r\n"
     ics_str += "X-WR-CALNAME:Gradescope Assignments\r\n"
-    uid = 1
     for course, course_assignments in data.items():
         for assignment in course_assignments:
             if not assignment['submitted']:
-                uid = uid + 1
+                uid = make_uid(assignment['course'], assignment['title'])
                 if time_offset == 0:
                     time = assignment['dueDate']
                 else:
@@ -60,7 +65,7 @@ def json_to_ics(time_offset, json_path=os.path.join(DATA_DIR, 'assignments.json'
                                  f"END:VEVENT\r\n")
                 ics_str += event_details
                 if assignment['lateDueDate']:
-                    uid = uid + 1
+                    uid = make_uid(assignment['course'], assignment['title'], suffix='late')
                     if time_offset == 0:
                         time = assignment['lateDueDate']
                     else:
