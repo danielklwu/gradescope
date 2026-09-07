@@ -2,6 +2,14 @@
   "14-741": [],
   "14757": [
     {
+      "title": "HW1",
+      "course": "14757",
+      "dueDate": "20260917T150000Z",
+      "lateDueDate": "20260919T150000Z",
+      "link": "https://www.gradescope.com/courses/1361737",
+      "submitted": false
+    },
+    {
       "title": "L03 Quiz",
       "course": "14757",
       "dueDate": "20260909T210000Z",
@@ -32,8 +40,8 @@
       "course": "14763/18763",
       "dueDate": "20260910T235900Z",
       "lateDueDate": "20260913T235900Z",
-      "link": "https://www.gradescope.com/courses/1353968",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8490432/submissions/423889833",
+      "submitted": true
     }
   ]
 }
