@@ -50,6 +50,22 @@
       "lateDueDate": "20260913T235900Z",
       "link": "https://www.gradescope.com/courses/1353968/assignments/8490432/submissions/423889833",
       "submitted": true
+    },
+    {
+      "title": "Course Project Submission (Option 1 or Option 2)",
+      "course": "14763/18763",
+      "dueDate": "20261112T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8593853/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework-2: SparkSQL and SQL on PostgreSQL",
+      "course": "14763/18763",
+      "dueDate": "20260917T235900Z",
+      "lateDueDate": "20260920T235900Z",
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8593857/submissions/new",
+      "submitted": false
     }
   ]
 }
