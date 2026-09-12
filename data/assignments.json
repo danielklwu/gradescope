@@ -1,5 +1,22 @@
 {
-  "14-741": [],
+  "14-741": [
+    {
+      "title": "HW1 - The Lying Oracle - PDF Submission",
+      "course": "14-741",
+      "dueDate": "20260915T235900Z",
+      "lateDueDate": "20260918T235900Z",
+      "link": "https://www.gradescope.com/courses/1362116",
+      "submitted": false
+    },
+    {
+      "title": "HW1 - The Lying Oracle - Code Submission",
+      "course": "14-741",
+      "dueDate": "20260915T235900Z",
+      "lateDueDate": "20260918T235900Z",
+      "link": "https://www.gradescope.com/courses/1362116",
+      "submitted": false
+    }
+  ],
   "14757": [
     {
       "title": "HW1",
