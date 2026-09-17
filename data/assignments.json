@@ -99,6 +99,14 @@
       "lateDueDate": "20260920T235900Z",
       "link": "https://www.gradescope.com/courses/1353968/assignments/8593857/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Homework-3: NoSQL Databases and Data Streaming",
+      "course": "14763/18763",
+      "dueDate": "20261001T235900Z",
+      "lateDueDate": "20261004T235900Z",
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8643296/submissions/new",
+      "submitted": false
     }
   ]
 }
