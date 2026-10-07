@@ -49,17 +49,17 @@
       "submitted": false
     },
     {
-      "title": "HW3 - Uncontrolling Access - PDF Submission",
+      "title": "HW3-acl",
       "course": "14-741",
-      "dueDate": "20261011T235900Z",
+      "dueDate": "20261013T235900Z",
       "lateDueDate": "20261014T235900Z",
       "link": "https://www.gradescope.com/courses/1362116",
       "submitted": false
     },
     {
-      "title": "HW3-acl",
+      "title": "HW3 - PDF Submission",
       "course": "14-741",
-      "dueDate": "20261013T235900Z",
+      "dueDate": "20261011T235900Z",
       "lateDueDate": "20261014T235900Z",
       "link": "https://www.gradescope.com/courses/1362116",
       "submitted": false
@@ -159,8 +159,8 @@
       "course": "14757",
       "dueDate": "20261007T210000Z",
       "lateDueDate": null,
-      "link": "https://www.gradescope.com/courses/1361737/assignments/8444083/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1361737/assignments/8444083/submissions/434781886",
+      "submitted": true
     },
     {
       "title": "HW2",
@@ -226,6 +226,14 @@
       "dueDate": "20261008T235900Z",
       "lateDueDate": "20261011T235900Z",
       "link": "https://www.gradescope.com/courses/1353968/assignments/8750719/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework-5: Spark ML",
+      "course": "14763/18763",
+      "dueDate": "20261022T235900Z",
+      "lateDueDate": "20261025T235900Z",
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8819875/submissions/new",
       "submitted": false
     }
   ]
