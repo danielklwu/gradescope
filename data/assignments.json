@@ -115,6 +115,14 @@
       "submitted": true
     },
     {
+      "title": "L14 Quiz",
+      "course": "14757",
+      "dueDate": "20261009T210000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1361737/assignments/8444074/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "L06 Quiz",
       "course": "14757",
       "dueDate": "20260911T210000Z",
@@ -225,8 +233,8 @@
       "course": "14763/18763",
       "dueDate": "20261008T235900Z",
       "lateDueDate": "20261011T235900Z",
-      "link": "https://www.gradescope.com/courses/1353968/assignments/8750719/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8750719/submissions/435378999",
+      "submitted": true
     },
     {
       "title": "Homework-5: Spark ML",
