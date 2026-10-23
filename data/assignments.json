@@ -259,6 +259,14 @@
       "lateDueDate": "20261025T235900Z",
       "link": "https://www.gradescope.com/courses/1353968/assignments/8819875/submissions/440391826",
       "submitted": true
+    },
+    {
+      "title": "Homework-6: PyTorch",
+      "course": "14763/18763",
+      "dueDate": "20261105T235900Z",
+      "lateDueDate": "20261108T235900Z",
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8930201/submissions/new",
+      "submitted": false
     }
   ]
 }
