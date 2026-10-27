@@ -63,6 +63,22 @@
       "lateDueDate": "20261025T235900Z",
       "link": "https://www.gradescope.com/courses/1362116/assignments/8828587/submissions/441040739",
       "submitted": true
+    },
+    {
+      "title": "HW4 - Effort Overflow - PDF Submission",
+      "course": "14-741",
+      "dueDate": "20261103T235900Z",
+      "lateDueDate": "20261106T235900Z",
+      "link": "https://www.gradescope.com/courses/1362116",
+      "submitted": false
+    },
+    {
+      "title": "HW4 - Code Submission",
+      "course": "14-741",
+      "dueDate": "20261106T235900Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1362116",
+      "submitted": false
     }
   ],
   "14757": [
