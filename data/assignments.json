@@ -249,6 +249,14 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1361737/assignments/8444092/submissions/432870896",
       "submitted": true
+    },
+    {
+      "title": "L19 Quiz",
+      "course": "14757",
+      "dueDate": "20261106T210000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1361737/assignments/8444093/submissions/445344429",
+      "submitted": true
     }
   ],
   "14763/18763": [
@@ -305,8 +313,8 @@
       "course": "14763/18763",
       "dueDate": "20261105T235900Z",
       "lateDueDate": "20261108T235900Z",
-      "link": "https://www.gradescope.com/courses/1353968/assignments/8930201/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1353968/assignments/8930201/submissions/445344098",
+      "submitted": true
     }
   ]
 }
