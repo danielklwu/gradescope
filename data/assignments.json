@@ -315,6 +315,14 @@
       "lateDueDate": "20261108T235900Z",
       "link": "https://www.gradescope.com/courses/1353968/assignments/8930201/submissions/445344098",
       "submitted": true
+    },
+    {
+      "title": "Homework-7: LLM-TensorFlow-JAX",
+      "course": "14763/18763",
+      "dueDate": "20261119T235900Z",
+      "lateDueDate": "20261122T235900Z",
+      "link": "https://www.gradescope.com/courses/1353968/assignments/9018225/submissions/new",
+      "submitted": false
     }
   ]
 }
