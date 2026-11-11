@@ -79,6 +79,22 @@
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1362116/assignments/8944493/submissions/444949483",
       "submitted": true
+    },
+    {
+      "title": "HW5 - PDF Submission",
+      "course": "14-741",
+      "dueDate": "20261119T235900Z",
+      "lateDueDate": "20261122T235900Z",
+      "link": "https://www.gradescope.com/courses/1362116",
+      "submitted": false
+    },
+    {
+      "title": "HW5 - Code Submission",
+      "course": "14-741",
+      "dueDate": "20261119T235900Z",
+      "lateDueDate": "20261122T235900Z",
+      "link": "https://www.gradescope.com/courses/1362116",
+      "submitted": false
     }
   ],
   "14757": [
@@ -264,6 +280,14 @@
       "dueDate": "20261106T210000Z",
       "lateDueDate": null,
       "link": "https://www.gradescope.com/courses/1361737/assignments/8444093/submissions/445344429",
+      "submitted": true
+    },
+    {
+      "title": "L20 Quiz",
+      "course": "14757",
+      "dueDate": "20261111T210000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1361737/assignments/8444094/submissions/446967514",
       "submitted": true
     }
   ],
