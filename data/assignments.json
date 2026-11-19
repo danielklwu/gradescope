@@ -371,6 +371,14 @@
       "lateDueDate": "20261122T235900Z",
       "link": "https://www.gradescope.com/courses/1353968/assignments/9018225/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Homework-8: TinyML Using Edge Impulse",
+      "course": "14763/18763",
+      "dueDate": "20261130T235900Z",
+      "lateDueDate": "20261203T235900Z",
+      "link": "https://www.gradescope.com/courses/1353968/assignments/9045876/submissions/new",
+      "submitted": false
     }
   ]
 }
