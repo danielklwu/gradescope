@@ -259,6 +259,14 @@
       "submitted": true
     },
     {
+      "title": "L23 Quiz",
+      "course": "14757",
+      "dueDate": "20261120T210000Z",
+      "lateDueDate": null,
+      "link": "https://www.gradescope.com/courses/1361737/assignments/8444089/submissions/450285110",
+      "submitted": true
+    },
+    {
       "title": "L08 Quiz",
       "course": "14757",
       "dueDate": "20260918T210000Z",
@@ -369,8 +377,8 @@
       "course": "14763/18763",
       "dueDate": "20261119T235900Z",
       "lateDueDate": "20261122T235900Z",
-      "link": "https://www.gradescope.com/courses/1353968/assignments/9018225/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1353968/assignments/9018225/submissions/450284733",
+      "submitted": true
     },
     {
       "title": "Homework-8: TinyML Using Edge Impulse",
